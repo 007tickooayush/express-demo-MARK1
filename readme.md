@@ -20,7 +20,7 @@ npm install
 ```
 
 ## run application :
-### executing www.js
+### executing [www.js](./bin/www)
 
 ```
 npm run start 
